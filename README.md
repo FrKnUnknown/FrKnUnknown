@@ -3,7 +3,7 @@
  ### Olá, eu sou o Mateus! Seja bem-vindo ao meu GitHub!
 
 - 👨‍💻 Estudando Dados & Python 
-- 📚 Sou estudante de Análise e desenvolvimento de sistemas, atualmenente no 5º Semestre.
+- 📚 Sou estudante de Análise e desenvolvimento de sistemas, atualmente no 5º Semestre.
 - 🎯 Gosto de desafios e problemas.
 
 <hr>
